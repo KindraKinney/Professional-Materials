@@ -1,0 +1,14 @@
+body {
+    background-image: url(assets/images/ripples.jpg);
+}
+
+
+.navbar-light {
+    background-color: rgba(145, 140, 139) ;
+}
+
+.navbar-nav .mr-auto {
+    float:right;
+    position: absolute;
+    right: 10px;
+    }
